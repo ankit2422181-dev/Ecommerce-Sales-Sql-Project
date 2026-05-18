@@ -1,0 +1,1 @@
+Built an ecommerce database system using SQL to manage customers, products, orders, and sales analytics. Implemented joins, aggregate queries, and inventory tracking to solve real-world business problems.
